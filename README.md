@@ -13,17 +13,20 @@ I'm not working on this any longer since i've moved onto game development.
 - Beta XPort
 
 # ❔ FAQ
-### Q: How did you edit the CTX files, aren't they encrypted?
-### A: Yes they are encrypted, we used a tool called VICE to decrypt the CTX files in order to modify them and re-encrypt them.
+### How did you edit the CTX files, aren't they encrypted?
+Yes they are encrypted, we used a tool called VICE to decrypt the CTX files in order to modify them and re-encrypt them.
 
-### Q: Does this support only servers, or can you install them to your normal game?
-### A: For the most part, yes. But they will be overridden if the server doesn't have the mod installed.
+### Does this support only servers, or can you install them to your normal game?
+For the most part, yes. But they will be overridden if the server doesn't have the mod installed.
 
-### Q: Can these be used in the live version of TF2?
-### A: Probably not, there are probably differences with Old TF2 vs Live TF2. Use sourcemod plugins or VScript to achieve the same effect.
+### Can these be used in the live version of TF2?
+Probably not, there are probably differences with Old TF2 vs Live TF2. Use sourcemod plugins or VScript to achieve the same effect.
 
-### Q: Can you port this mod to Live TF2?
-### A: No, sorry.
+### Can you port this mod to Live TF2?
+No, sorry. Use the sourcemod plugin.
+
+### Why arent you working on this anymore?
+Please read above for the reason why I won't be working on it anymore.
 
 # 🔧 Installation
 
